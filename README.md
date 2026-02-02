@@ -1,7 +1,7 @@
 ## Hi there. I'm Ella 👋
 
 # 💫 About Me:
-I'm currently working on becoming a full-stack developer. <br>I'm learning primarily using JS, and SQL.<br>Looking to collaborate on launching any user-facing application<br>Fun fact: I'm a trained architect (the building kind!).<br><br>
+I'm currently working on learning full-stack development. <br>I'm learning primarily using JS, and SQL.<br>Looking to collaborate on launching any user-facing application<br>Fun fact: I'm a trained architect (the building kind!).<br><br>
 
 
 ## 🌐 Socials:
